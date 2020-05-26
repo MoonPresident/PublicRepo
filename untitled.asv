@@ -1,0 +1,5 @@
+strings = dir("./elec4630_images")
+
+for i = 1:length(dir)
+    if(length(strings(i).name) < 
+end
